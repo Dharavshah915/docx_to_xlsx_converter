@@ -1,4 +1,4 @@
-# docx_to_xml_converter
+# docx_to_xlsx_converter
 
 #Usage
 - I recmommend using google colab as that is what i have used.
